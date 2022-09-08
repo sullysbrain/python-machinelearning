@@ -6,6 +6,13 @@ name = "pypi"
 [packages]
 numpy = "*"
 notebook = "*"
+torch = "*"
+stable-baselines3 = "*"
+gym = "*"
+pyvirtualdisplay = "*"
+pyglet = "*"
+pyopengl = "*"
+tensorflow = "*"
 
 [dev-packages]
 ipykernel = "*"
