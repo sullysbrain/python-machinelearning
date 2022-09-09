@@ -13,6 +13,7 @@ pyvirtualdisplay = "*"
 pyglet = "*"
 pyopengl = "*"
 tensorflow = "*"
+torchvision = "*"
 
 [dev-packages]
 ipykernel = "*"
