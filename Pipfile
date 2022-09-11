@@ -14,6 +14,7 @@ pyglet = "*"
 pyopengl = "*"
 tensorflow = "*"
 torchvision = "*"
+pandas-datareader = "*"
 
 [dev-packages]
 ipykernel = "*"
