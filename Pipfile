@@ -15,6 +15,7 @@ pyopengl = "*"
 tensorflow = "*"
 torchvision = "*"
 pandas-datareader = "*"
+sklearn = "*"
 
 [dev-packages]
 ipykernel = "*"
