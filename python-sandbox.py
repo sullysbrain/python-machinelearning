@@ -16,3 +16,6 @@ x2 = {"dog", "books", 2}
 x = x1.union(x2)
 mymainmethod(x)
 
+for i in range(1,8):
+    print(f"This is at {i}")
+
