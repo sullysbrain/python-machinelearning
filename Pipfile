@@ -28,6 +28,7 @@ transformers = "*"
 charset-normalizer = "*"
 pyparsing = "*"
 typing-extensions = "*"
+matplotlib = "*"
 
 [dev-packages]
 ipykernel = "*"
