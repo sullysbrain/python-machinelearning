@@ -16,6 +16,7 @@ tensorflow = "*"
 torchvision = "*"
 pandas-datareader = "*"
 sklearn = "*"
+<<<<<<< HEAD
 customtkinter = "*"
 certifi = "*"
 colorama = "*"
@@ -29,6 +30,8 @@ charset-normalizer = "*"
 pyparsing = "*"
 typing-extensions = "*"
 matplotlib = "*"
+=======
+>>>>>>> parent of 2f21dfc (Commit before beginning work on matplotlib stylesheets.)
 
 [dev-packages]
 ipykernel = "*"
