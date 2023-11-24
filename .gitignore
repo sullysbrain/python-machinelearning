@@ -3,7 +3,7 @@
 
 # AWS User-specific
 .idea/**/aws.xml
-authtoken.py
+*token.py
 
 # Distribution / packaging
 .Python build/ 
